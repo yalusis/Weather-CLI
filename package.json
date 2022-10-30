@@ -16,9 +16,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yalusis"
+    "url": "https://github.com/yalusis/weather-cli"
   },
   "bugs": {
-    "url": "https://github.com/yalusis"
+    "url": "https://github.com/yalusis/weather-cli"
   }
 }
